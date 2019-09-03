@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/.github.io/Monsters-Cards-React/static/css/main.58a57c96.chunk.css",
-    "main.js": "/.github.io/Monsters-Cards-React/static/js/main.ee58f2b8.chunk.js",
-    "main.js.map": "/.github.io/Monsters-Cards-React/static/js/main.ee58f2b8.chunk.js.map",
-    "runtime~main.js": "/.github.io/Monsters-Cards-React/static/js/runtime~main.a57612e3.js",
-    "runtime~main.js.map": "/.github.io/Monsters-Cards-React/static/js/runtime~main.a57612e3.js.map",
-    "static/js/2.7770e699.chunk.js": "/.github.io/Monsters-Cards-React/static/js/2.7770e699.chunk.js",
-    "static/js/2.7770e699.chunk.js.map": "/.github.io/Monsters-Cards-React/static/js/2.7770e699.chunk.js.map",
-    "index.html": "/.github.io/Monsters-Cards-React/index.html",
-    "precache-manifest.be5c18de8263bb4af8620d440de511a4.js": "/.github.io/Monsters-Cards-React/precache-manifest.be5c18de8263bb4af8620d440de511a4.js",
-    "service-worker.js": "/.github.io/Monsters-Cards-React/service-worker.js",
-    "static/css/main.58a57c96.chunk.css.map": "/.github.io/Monsters-Cards-React/static/css/main.58a57c96.chunk.css.map"
+    "main.css": "/Monsters-Cards-React/static/css/main.58a57c96.chunk.css",
+    "main.js": "/Monsters-Cards-React/static/js/main.37290868.chunk.js",
+    "main.js.map": "/Monsters-Cards-React/static/js/main.37290868.chunk.js.map",
+    "runtime~main.js": "/Monsters-Cards-React/static/js/runtime~main.c10f2105.js",
+    "runtime~main.js.map": "/Monsters-Cards-React/static/js/runtime~main.c10f2105.js.map",
+    "static/js/2.7770e699.chunk.js": "/Monsters-Cards-React/static/js/2.7770e699.chunk.js",
+    "static/js/2.7770e699.chunk.js.map": "/Monsters-Cards-React/static/js/2.7770e699.chunk.js.map",
+    "index.html": "/Monsters-Cards-React/index.html",
+    "precache-manifest.bf6a7854997b3f97dafaa7e8fe67b0a5.js": "/Monsters-Cards-React/precache-manifest.bf6a7854997b3f97dafaa7e8fe67b0a5.js",
+    "service-worker.js": "/Monsters-Cards-React/service-worker.js",
+    "static/css/main.58a57c96.chunk.css.map": "/Monsters-Cards-React/static/css/main.58a57c96.chunk.css.map"
   }
 }
